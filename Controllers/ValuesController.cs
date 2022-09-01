@@ -29,24 +29,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Value 10");
             l.Add("Value 11");
             l.Add("Value 12");
-            l.Add("CTS Trial 14566");
-            l.Add("FIS Data Modified");
-            l.Add("CTS ID12 Data Modified");
-            l.Add("FIS Data Newly Modified");
-            l.Add("Third Data Integration");
-            l.Add("CDE12 data added");
-            l.Add("Schneider Data Added");
-            l.Add("RBC data added");
-            l.Add("Kanini Data Added");
-            l.Add("Kanini second Data Added");
-            l.Add("Docker Image Added");
-            l.Add("Tech M Added");
-            l.Add("CTS CDE14 Added");
-            l.Add("Kanini Batch I Data Added");
-            l.Add("second modfication");
-            l.Add("Final Modification");
-            l.Add("CTS CDX0102 Data Added");
-            l.Add("New CDX0102 modified");
+            l.Add("gowtham added");
             return l;
         }
     }
